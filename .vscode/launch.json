@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MinhaCasse",
+            "request": "launch",
+            "mainClass": "terminal_argumentos.src.MinhaCasse",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        },
+        {
+            "type": "java",
+            "name": "tipos_variaveis",
+            "request": "launch",
+            "mainClass": "tipos_variaveis.src.tipos_variaveis",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "terminal_argumentos.src.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "terminal_argumentos.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-trilha-java-basico_d1b41237"
+        }
+    ]
+}
