@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SobremimScanner",
+            "request": "launch",
+            "mainClass": "SobremimScanner",
+            "projectName": "terminal-argumentos_a405917a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -22,9 +29,13 @@
             "name": "Sobremim",
             "request": "launch",
             "mainClass": "Sobremim",
-            
             "projectName": "terminal-argumentos_a405917a",
-            "args": ["jovani ","aparecido", "40", " 1.63 "]
+            "args": [
+                "jovani ",
+                "aparecido",
+                "40",
+                " 1.63 "
+            ]
         }
     ]
 }
